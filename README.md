@@ -144,3 +144,16 @@ the context of the survey period and the selected study areas.
 Project author: Akinwonjowo Olayinka
 Project focus: Food Security | Dietary Diversity | Data Analysis
 Tools: Excel | SQL Server | Power BI
+
+
+---
+
+## Project Screenshots
+
+### Power BI Dashboard
+
+![Power BI Dashboard](powerbi-dashboard.png)
+
+### SQL Queries and Results
+
+![SQL Queries](sql-queries.png)

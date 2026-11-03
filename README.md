@@ -152,8 +152,8 @@ Tools: Excel | SQL Server | Power BI
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](powerbi-dashboard.png)
+![Power BI Dashboard](powerbi-dashboard.png.jpg)
 
 ### SQL Queries and Results
 
-![SQL Queries](sql-queries.png)
+![SQL Queries](sql-queries.png.jpg)

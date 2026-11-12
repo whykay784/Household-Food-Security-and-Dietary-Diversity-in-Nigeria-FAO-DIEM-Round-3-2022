@@ -150,7 +150,7 @@ Tools: Excel | SQL Server | Power BI
 
 ## Project Screenshots
 
-### Power BI Dashboard
+### ![Power BI Dashboard](screenshots/powerbi-screenshot.jpg)
 
 ![Power BI Dashboard](powerbi-dashboard.png.jpg)
 
